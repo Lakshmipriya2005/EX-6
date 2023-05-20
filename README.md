@@ -43,9 +43,9 @@ while True:
    print(s.recv(1024).decode())
 ```
 # SERVER OUTPUT :
-![output](S5.png)
+![output](S5.jpg)
 # CLIENT OUTPUT :
-![output](C5.png)
+![output](C5.jpg)
 
 # RESULT:
 Thus, the python program for simulating ping command was successfully executed.
